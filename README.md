@@ -106,9 +106,9 @@ code to match your local directory.
 ## Policy Implications
 The analysis reveals a structurally fragile national migration network 
 over-concentrated around London and the South-East. Key recommendations 
-include targeted investment in northern connectivity — particularly the 
+include targeted investment in northern connectivity, particularly the 
 North-East and Wales which are dangerously isolated from national migration 
-flows — strengthening Yorkshire's bridging role through infrastructure 
+flows, strengthening Yorkshire's bridging role through infrastructure 
 investment, developing the North-West as a viable secondary hub, and 
 addressing housing affordability in London to reduce forced outmigration.
 
