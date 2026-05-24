@@ -55,8 +55,7 @@ Midlands, North-East, Wales). Edge thickness represents migration volume.*
 | SAS Viya | Interactive dashboard development |
 | Gephi | Network graph visualisation |
 
-Note: SAS code is[Network_Analysis_Presentation.pdf](https://github.com/user-attachments/files/28200990/Network_Analysis_Presentation.pdf)
- available in this repository as `migration_network_analysis.txt`. 
+Note: SAS code is available in this repository as `migration_network_analysis.txt`. 
 Open in SAS Studio or any text editor to view and run.
 ---
 
