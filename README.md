@@ -1,3 +1,5 @@
+[migration_network_analysis.txt](https://github.com/user-attachments/files/28201189/migration_network_analysis.txt)
+[Network_Analysis_Presentation.pdf](https://github.com/user-attachments/files/28201180/Network_Analysis_Presentation.pdf)
 # Network Analysis of Inter-Regional Migration Patterns in England & Wales
 
 ## Overview
