@@ -65,9 +65,7 @@ labour market statistics:
 
 - **Edge dataset:** NOMIS Origin-Destination Migration Data (Region) — 
   captures inter-regional migration flows from the 2021 Census
-- **Node dataset:** NOMIS 2021 Census — Usual Residents in Househo[migration_network_analysis.txt](https://github.com/user-attachments/files/28200914/migration_network_analysis.txt)
-
-lds and 
+- **Node dataset:** NOMIS 2021 Census — Usual Residents in Households and 
   Communal Establishments, used to represent regional population sizes
 
 To replicate this project, download both datasets from 
